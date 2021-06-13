@@ -1,0 +1,928 @@
+/* =================================Extra Extra Large Device================================= */
+/* =================================Extra Large Device================================= */
+@media(min-width:1200px) and (max-width:1399.98px){
+
+/* ======Buy Now part start======= */
+.buy-text h3 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.buy-button{
+    text-align: right;
+	margin-top: 14px;
+	
+}
+.buy-button a {
+	text-align: center;
+	margin: 0px 0px;
+    padding: 20px 25px;
+	margin-right: 5px;
+}
+
+
+}
+/* =================================Large Device================================= */
+@media(min-width:992px) and (max-width:1199.98px){
+/* ======navbar part start======= */
+.navbar-expand-lg .navbar-nav .nav-link {
+	margin-left: 25px;
+	font-weight: 500;
+}
+/* ======Bannar part start======= */
+#banner {
+    height: 100vh;  
+}
+.banner-main {
+    height: 100vh;
+}
+.banner-content h3 {
+    font-size: 26px;
+    padding-top: 50px;
+}
+.banner-content h1 {
+    font-size: 42px;
+}
+.banner-content p {
+    padding-bottom: 25px;
+}
+.banner-content a {
+    padding: 17px 27px;
+}
+/* ======service part start======= */
+
+/* ======Buy Now part start======= */
+.buy-text h3 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.buy-button{
+    text-align: right;
+	margin-top: 13px;
+}
+.buy-button a {
+	text-align: center;
+	margin: 0px 0px;
+    padding: 18px 23px;
+}
+/* ======Project part start======= */
+/* ======Video part start======= */
+/* ======Mobile part start======= */
+#mobile .col-lg-7 .mobile-list h2 {
+	padding-top: 140px;
+
+}
+.mobile-list-main{
+	margin-left: 20px;
+}
+.mobile-list-item p i {
+	font-size: 10px;
+	padding: 3px 4px;
+	margin-right: 8px;
+	margin-left: 10px;
+	
+}
+/* ======counter part start======= */
+#counter {
+	padding-top: 35px;
+	padding-bottom: 5px;
+}
+.counter-item{
+    margin-bottom: 50px;
+}
+.counter-item i {
+	font-size: 40px;
+}
+.counter-item h3 {
+	padding-top: 12px;
+	padding-bottom: 4px;
+    font-size: 35px;
+}
+.counter-item p{
+	font-size: 15px;
+}
+.counter-item p::after {
+	top: 32px;	
+}
+/* ======Recent Post part start======= */
+#post .col-lg-8 .heading h2 {
+	padding-top: 55px;
+}
+#post .post-item {
+	margin-bottom: 65px;
+}
+/* ======Brand part start======= */
+#brand {
+	padding: 70px 0;
+}
+/* ======Footer part start======= */
+#footer {
+	padding: 50px 0;
+}
+/* ======Footer End part start======= */
+
+
+
+
+}
+/* =================================Medium Device================================= */
+@media(min-width:768px) and (max-width:991.98px){
+/* ======navbar part start======= */
+.navbar-brand {
+	padding-top: 25px;
+}
+.navbar-brand img{
+	width: 170px;
+}
+.navbar-nav {
+	background-color: rgb(0, 0, 0);
+	width: 250px;  
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	font-size: 17px;
+	font-weight: 500;
+	text-align: center;  
+}
+.nav-item{
+	border-bottom: 1px solid #fff;
+	transition: all linear 0.3s;
+}
+.nav-item:hover{
+	background-color: rgb(37, 95, 105);
+}
+.nav-link {
+	padding: 0;
+}
+/* ======Bannar part start======= */
+#banner {
+    height: 80vh;  
+}
+.banner-main {
+    height: 80vh;
+}
+.banner-content h3 {
+    font-size: 26px;
+    padding-top: 50px;
+}
+.banner-content h1 {
+    font-size: 42px;
+}
+.banner-content p {
+    padding-bottom: 25px;
+}
+.banner-content a {
+    padding: 13px 23px;
+}
+/* ======service part start======= */
+#service {
+	padding-top: 30px;
+	padding-bottom: 25px;
+}
+.service-item p {
+	padding-bottom: 20px;
+}
+.service-item h3 {
+	padding-top: 5px;	
+}
+/* ======Buy Now part start======= */
+#buy {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.buy-text h3 {
+	font-size: 24px;
+	line-height: 24px;
+}
+.buy-text h4 {
+	font-size: 16px;
+	line-height: 16px;
+    padding-bottom: 0px;
+}
+.buy-button{
+    text-align: right;
+	margin-top: 13px;
+}
+.buy-button a {
+	text-align: center;
+	margin: 0px 0px;
+    padding: 10px 15px;
+}
+/* ======Project part start======= */
+#project {
+	padding-top: 35px;
+	padding-bottom: 48px;
+}
+.card-body {
+	padding: 25px;	
+}
+.heading p {
+	margin-bottom: 0;
+	padding: -2px 0px;
+	font-size: 14px;
+	line-height: 23px;
+}
+.project-category {
+	padding-bottom: 22px;
+}
+.project-category button {
+	padding: 8px 13px;
+	margin: 5px 0;
+}
+.card-title {
+	font-size: 22px;
+	padding-bottom: 5px;
+}
+.load-btn{
+    padding-top: 8px;
+    text-align: center;
+}
+.load-btn a {
+	padding: 15px 25px;
+	
+}
+/* ======Video part start======= */
+.video-content-main {
+	width: 90%;
+}
+.video-part {
+	height: 100%;
+}
+.video-content i {
+	font-size: 55px;
+}
+.video-content i::after {
+	width: 70px;
+	height: 70px;
+}
+.video-content h3 {
+	padding-top: 40px;
+	font-size: 30px;
+	padding-bottom: 15px;
+	line-height: 23px;
+}
+.video-content p {
+	font-size: 20px;
+	line-height: 22px;
+	padding: 0px 0px;
+	margin-bottom: 0px;
+}
+/* ======Mobile part start======= */
+#mobile{
+    padding-bottom: 0px;
+}
+#mobile .col-lg-5 img {
+	padding-top: 100px;
+	padding-left: 0px;
+    margin: 0 ‍auto;
+}
+#mobile .col-lg-7 .mobile-list h2 {
+	padding-top: 140px;
+	font-size: 25px;
+    line-height: 20px;
+}
+.mobile-list-main{
+	margin-left: 30px;
+}
+#mobile .col-lg-7 .mobile-list p {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-size: 14px;
+	line-height: 18px;
+
+}
+.mobile-list-item p i {
+	font-size: 10px;
+	padding: 3px 4px;
+	margin-right: 8px;
+	margin-left: 0px;
+	
+}
+.mobile-list-item p {
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 5px;
+}
+/* ======counter part start======= */
+#counter {
+	padding-top: 30px;
+	padding-bottom: 3px;
+}
+.counter-item{
+    margin-bottom: 50px;
+}
+.counter-item i {
+	font-size: 30px;
+}
+.counter-item h3 {
+	padding-top: 12px;
+	padding-bottom: 4px;
+    font-size: 30px;
+}
+.counter-item p{
+	font-size: 12px;
+}
+.counter-item p::after {
+	top: 32px;	
+}
+.offset-sm-2 {
+	margin-left: 0;
+}
+/* ======Recent Post part start======= */
+#post .col-lg-8 .heading h2 {
+	padding-top: 35px;
+}
+.heading h2 {
+	padding-bottom: 0px;
+}
+#post .post-item {
+	margin-bottom: 40px;
+}
+.post .card-title {
+	font-size: 16px;
+	padding-bottom: 0px;	
+}
+.post-date {
+	top: 10px;
+	left: 10px;
+}
+.post-date h3 {
+	padding: 5px 7px;
+	font-size: 20px;
+	text-align: center;
+}
+.post-date span {
+	font-size: 12px;
+	padding: 5px 8px;
+}
+/* ======Brand part start======= */
+#brand {
+	padding: 5px 0;	
+}
+/* ======Footer part start======= */
+#footer {
+	padding: 20px 0;
+}
+.footer-text p {
+	padding-top: 10px;
+}
+
+.footer-logo img{
+    width: 120px;
+}
+.footer-main-img h4 {
+	padding-left: 12px;
+    padding-top: 28px;
+    padding-bottom: 10px;
+}
+.footer-img{
+    margin: 0 9px;
+}
+/* ======Footer End part start======= */
+#footer-end {
+	padding: 20px 0;
+}
+#footer-end .copyright {
+	text-align: center;
+	line-height: 18px;
+    padding-bottom: 5px;
+}
+.designed {
+	text-align: center;
+	line-height: 18px;
+}
+
+}
+/* =================================Small Device================================= */
+@media(min-width:576px) and (max-width:767.98px){
+/* ======navbar part start======= */
+    .navbar-brand {
+        padding-top: 20px;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+    .navbar-nav {
+        background-color: rgb(0, 0, 0);
+        width: 250px;  
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 0px;
+        font-weight: 500;
+        text-align: center;  
+    }
+    .nav-item{
+        border-bottom: 1px solid #fff;
+        transition: all linear 0.3s;
+    }
+    .nav-item:hover{
+        background-color: rgb(37, 95, 105);
+    }
+    .nav-link {
+        padding: 0;
+    }
+/* ======Bannar part start======= */
+#banner {
+    height: 80vh;  
+}
+.banner-main {
+    height: 80vh;
+}
+.banner-content h3 {
+    font-size: 18px;
+    padding-top: 50px;
+}
+.banner-content h1 {
+    font-size: 26px;
+}
+.banner-content p {
+    padding-bottom: 25px;
+}
+.banner-content a {
+    padding: 10px 20px;
+}
+/* ======service part start======= */
+#service {
+	padding-top: 30px;
+	padding-bottom: 25px;
+}
+.service-item p {
+	padding-bottom: 20px;
+}
+.service-item h3 {
+	padding-top: 5px;	
+}
+/* ======Buy Now part start======= */
+#buy {
+	padding-top: 20px;
+	padding-bottom: 27px;
+}
+.buy-text h3 {
+	font-size: 24px;
+	line-height: 24px;
+    text-align: center;
+}
+.buy-text h4 {
+	font-size: 18px;
+	line-height: 16px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.buy-button{
+    text-align: center;
+}
+.buy-button a {
+	margin: 10px 20px;
+    padding: 10px 20px;
+}
+/* ======Project part start======= */
+#project {
+	padding-top: 25px;
+	padding-bottom: 38px;
+}
+.card-body {
+	padding: 15px;	
+}
+.heading p {
+	margin-bottom: 0;
+	padding: -2px 0px;
+	font-size: 14px;
+	line-height: 23px;
+}
+.project-category {
+	padding-bottom: 22px;
+}
+.project-category button {
+	padding: 5px 10px;
+	margin: 5px 0;
+}
+.card-title {
+	font-size: 18px;
+	padding-bottom: 5px;
+}
+.load-btn{
+    padding-top: 8px;
+    text-align: center;
+}
+.load-btn a {
+	padding: 10px 20px;
+	
+}
+/* ======Video part start======= */
+.video-content-main {
+	width: 90%;
+}
+.video-part {
+	height: 100%;
+}
+.video-content i {
+	font-size: 45px;
+}
+.video-content i::after {
+	width: 60px;
+	height: 60px;
+}
+.video-content h3 {
+	padding-top: 34px;
+	font-size: 25px;
+	padding-bottom: 5px;
+	line-height: 23px;
+}
+.video-content p {
+	font-size: 17px;
+	line-height: 22px;
+	padding: 0px 0px;
+	margin-bottom: 0px;
+}
+/* ======Mobile part start======= */
+#mobile{
+    padding-bottom: 18px;
+}
+#mobile .col-lg-5 img {
+	padding-top: 34px;
+	padding-left: 0px;
+    margin: 0 ‍auto;
+}
+#mobile .col-lg-7 .mobile-list h2 {
+	padding-top: 29px;
+	font-size: 21px;
+    line-height: 22px;
+}
+#mobile .col-lg-7 .mobile-list p {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-size: 16px;
+	line-height: 22px;
+}
+.mobile-list-item p i {
+	font-size: 10px;
+	padding: 4px 5px;
+	margin-right: 5px;
+	margin-left: 0px;
+	
+}
+.mobile-list-item p {
+	font-size: 14px;
+	line-height: 16px;
+}
+/* ======counter part start======= */
+#counter {
+	padding-top: 30px;
+	padding-bottom: 3px;
+}
+.counter-item{
+    margin-bottom: 50px;
+}
+.counter-item i {
+	font-size: 30px;
+}
+.counter-item h3 {
+	padding-top: 5px;
+	padding-bottom: 5px;
+    font-size: 30px;
+}
+.counter-item p::after {
+	top: 32px;	
+}
+/* ======Recent Post part start======= */
+#post .col-lg-8 .heading h2 {
+	padding-top: 30px;
+}
+.heading h2 {
+	padding-bottom: 0px;
+}
+#post .post-item {
+	margin-bottom: 30px;
+}
+.post .card-title {
+	font-size: 16px;
+	padding-bottom: 0px;	
+}
+.post-date {
+	top: 10px;
+	left: 10px;
+}
+.post-date h3 {
+	padding: 5px 7px;
+	font-size: 20px;
+	text-align: center;
+}
+.post-date span {
+	font-size: 12px;
+	padding: 5px 8px;
+}
+/* ======Brand part start======= */
+#brand {
+	padding: 35px 0 0px 0;	
+}
+.brand-img{
+    position: relative;
+	margin-bottom: 35px;
+}
+.brand-img img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+	height: 100%;
+}
+/* ======Footer part start======= */
+#footer {
+	padding: 35px 0;
+}
+.footer-text p {
+	padding-top: 10px;
+}
+.footer-logo{
+	text-align: center;
+}
+.footer-logo img{
+    width: 150px;
+}
+.footer-main-img h4 {
+	padding-left: 12px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+.footer-img{
+    margin: 0 9px;
+}
+/* ======Footer End part start======= */
+#footer-end {
+	padding: 20px 0;
+}
+#footer-end .copyright {
+	text-align: center;
+	line-height: 18px;
+    padding-bottom: 5px;
+}
+.designed {
+	text-align: center;
+	line-height: 18px;
+}
+
+
+
+}
+/* ===========================================Extra Small Device========================================== */
+@media(max-width:575.98px){
+    /* ======navbar part start======= */
+    .navbar-brand {
+        padding-top: 10px;
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-nav {
+        background-color: rgb(0, 0, 0);
+        width: 150px;  
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        margin-left: 0px;
+        font-weight: 500;
+        text-align: center;  
+    }
+    .nav-item{
+        border-bottom: 1px solid #fff;
+        transition: all linear 0.3s;
+    }
+    .nav-item:hover{
+        background-color: rgb(37, 95, 105);
+    }
+    .nav-link {
+        padding: 0;
+    }
+/* ======Bannar part start======= */
+    #banner {
+        height: 80vh;  
+    }
+    .banner-main {
+        height: 80vh;
+    }
+    .banner-content h3 {
+        font-size: 18px;
+        padding-top: 50px;
+    }
+    .banner-content h1 {
+        font-size: 26px;
+    }
+    .banner-content p {
+        padding-bottom: 25px;
+    }
+    .banner-content a {
+        padding: 10px 20px;
+    }
+/* ======service part start======= */
+#service {
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+.service-item p {
+	padding-bottom: 20px;
+}
+.service-item h3 {
+	padding-top: 5px;	
+}
+/* ======Buy Now part start======= */
+#buy {
+	padding-top: 20px;
+	padding-bottom: 27px;
+}
+.buy-text h3 {
+	font-size: 18px;
+	line-height: 18px;
+    text-align: center;
+}
+.buy-text h4 {
+	font-size: 14px;
+	line-height: 16px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.buy-button{
+    text-align: center;
+}
+.buy-button a {
+	margin: 10px 20px;
+    padding: 10px 20px;
+}
+/* ======Project part start======= */
+#project {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.card-body {
+	padding: 20px;	
+}
+.heading p {
+	margin-bottom: 0;
+	padding: -2px 0px;
+	font-size: 14px;
+	line-height: 23px;
+}
+.project-category button {
+	padding: 5px 10px;
+	margin: 5px 0;
+}
+.project-category {
+	padding-bottom: 22px;
+}
+.load-btn{
+    padding-top: 0;
+    text-align: center;
+}
+.load-btn a {
+	padding: 10px 20px;
+	
+}
+/* ======Video part start======= */
+.video-content-main {
+	width: 90%;
+}
+.video-content i {
+	font-size: 35px;
+}
+.video-content i::after {
+	width: 50px;
+	height: 50px;
+}
+.video-content p {
+	font-size: 14px;
+	line-height: 20px;
+	padding: 0px 0px;
+	margin-bottom: 0px;
+}
+.video-part {
+	height: 100%;
+}
+
+.video-content h3 {
+	padding-top: 12px;
+	font-size: 23px;
+	padding-bottom: 0px;
+	line-height: 23px;
+}
+/* ======Mobile part start======= */
+#mobile .col-lg-5 img {
+	padding-top: 34px;
+	padding-left: 0px;
+    width: 230px;
+    height: 310px;
+    margin-left: 0 ‍auto;
+}
+#mobile .col-lg-7 .mobile-list h2 {
+	padding-top: 29px;
+	font-size: 21px;
+    line-height: 22px;
+}
+#mobile .col-lg-7 .mobile-list p {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-size: 16px;
+	line-height: 22px;
+}
+.mobile-list-item p i {
+	font-size: 10px;
+	padding: 4px 5px;
+	margin-right: 5px;
+	margin-left: 0px;
+	
+}
+.mobile-list-item p {
+	font-size: 14px;
+	line-height: 16px;
+}
+/* ======counter part start======= */
+#counter {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.counter-item{
+    margin-bottom: 30px;
+}
+.counter-item p::after {
+	top: 32px;
+	
+}
+.counter-item h3 {
+	padding-top: 0px;
+	padding-bottom: 5px;
+    font-size: 30px;
+}
+.counter-item i {
+	font-size: 30px;
+}
+/* ======Recent Post part start======= */
+#post .col-lg-8 .heading h2 {
+	padding-top: 25px;
+}
+.heading h2 {
+	padding-bottom: 0px;
+}
+#post .post-item {
+	margin-bottom: 30px;
+}
+/* ======Brand part start======= */
+#brand {
+	padding: 25px 0 10px 0;	
+}
+.brand-img{
+    position: relative;
+	height: 170px;
+}
+.brand-img img{
+    position: absolute;
+	height: 130px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+/* ======Footer part start======= */
+#footer {
+	padding: 25px 0;
+}
+.footer-text p {
+	padding-top: 10px;
+}
+.footer-logo{
+	text-align: center;
+}
+.footer-logo img{
+    width: 120px;
+}
+.footer-main-img h4 {
+	padding-left: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.footer-img{
+    margin: 0 9px;
+}
+/* ======Footer End part start======= */
+#footer-end {
+	padding: 15px 0;
+}
+#footer-end .copyright {
+	text-align: center;
+	line-height: 18px;
+    padding-bottom: 5px;
+}
+.designed {
+	text-align: center;
+	line-height: 18px;
+}
+}
+
+/* ===================================Extra Small Device========================= */
+/* ========================Extra Small Device====================== */
+/* ========================Extra Small Device====================== */
+/* ========================Extra Small Device====================== */
+

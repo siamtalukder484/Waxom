@@ -1,0 +1,49 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?3c0d803feda85a322e0c7b314fc488ae") format("truetype"),
+url("./flaticon.woff?3c0d803feda85a322e0c7b314fc488ae") format("woff"),
+url("./flaticon.woff2?3c0d803feda85a322e0c7b314fc488ae") format("woff2"),
+url("./flaticon.eot?3c0d803feda85a322e0c7b314fc488ae#iefix") format("embedded-opentype"),
+url("./flaticon.svg?3c0d803feda85a322e0c7b314fc488ae#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "rocket": "\f101",
+    "setting": "\f102",
+    "plan": "\f103",
+    "concept": "\f104",
+    "briefing": "\f105",
+    "pencil": "\f106",
+);
+
+.flaticon-rocket:before {
+    content: map-get($flaticon-map, "rocket");
+}
+.flaticon-setting:before {
+    content: map-get($flaticon-map, "setting");
+}
+.flaticon-plan:before {
+    content: map-get($flaticon-map, "plan");
+}
+.flaticon-concept:before {
+    content: map-get($flaticon-map, "concept");
+}
+.flaticon-briefing:before {
+    content: map-get($flaticon-map, "briefing");
+}
+.flaticon-pencil:before {
+    content: map-get($flaticon-map, "pencil");
+}
